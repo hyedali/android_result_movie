@@ -2,7 +2,7 @@
 
     <LinearLayout android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:text="http://kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json?key=52e080cf6c93c26301359aaaabc71641&amp;targetDt=20220401" android:inputType="text" android:ems="10" android:id="@+id/editText"/>
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:text="http://kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json?key=&amp;targetDt=20220401" android:inputType="text" android:ems="10" android:id="@+id/editText"/>
 
     <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:text="요청하기" android:id="@+id/button"/>
 
